@@ -5,6 +5,7 @@ Mi colección personal de programas minimalistas para GNU/Linux y Android.
 ## Aplicaciones para la terminal
 
 * [GNU nano](https://www.nano-editor.org/) `#editor`
+* [go-sendxmpp](https://salsa.debian.org/mdosch/go-sendxmpp) `#xmpp`
 * [htop](https://htop.dev/) `#info`
 * [pfetch](https://github.com/dylanaraps/pfetch) `#info`
 * [scrot](https://github.com/resurrecting-open-source-projects/scrot) `#screenshots`
@@ -51,10 +52,16 @@ Mi colección personal de programas minimalistas para GNU/Linux y Android.
 
 * [K-9 Mail](https://k9mail.app/) `#android`
 
-## Clientes para redes sociales
+## Clientes para redes sociales y servicios web
 
 * [BitlBee](https://www.bitlbee.org/main.php/news.r.html) `#irc`
+* [Conversations](https://conversations.im/) `#android` `#xmpp`
+* [Fedilab Lite](https://fedilab.app/) `#android` `#pleroma`
+* [Frost](https://allanwang.github.io/Frost-for-Facebook/) `#android` `#facebook`
 * [ii](https://tools.suckless.org/ii/) `#irc`
+* [NewPipe](https://newpipe.net/) `#android` `#youtube`
+* [Telegram](https://telegram.org/) `#android` `#gnulinux`
+* [yt-local](https://yt-local.ga/) `#youtube`
 
 ## Emuladores de terminal
 
@@ -115,6 +122,7 @@ Mi colección personal de programas minimalistas para GNU/Linux y Android.
 
 ## Servidores
 
+* [gonic](https://github.com/sentriz/gonic) `#música` `#streaming`
 * [Merecat](https://github.com/troglobit/merecat) `#http` `#https` `#php`
 * [TinySSH](https://github.com/janmojzis/tinyssh) `#ssh`
 
@@ -128,6 +136,10 @@ Mi colección personal de programas minimalistas para GNU/Linux y Android.
 * [AOSP Vanilla](https://github.com/phhusson/treble_experimentations) `#android`
 * [Arch Linux](https://archlinux.org/)
 * [LineageOS](https://sourceforge.net/projects/andyyan-gsi/) `#android`
+
+## Utilerias
+
+* [ROSA ImageWriter](http://wiki.rosalab.ru/en/index.php/ROSA_ImageWriter) `#usb` `#booteable`
 
 ## Virtualización
 
