@@ -27,14 +27,14 @@ Mi colección personal de programas minimalistas para GNU/Linux y Android.
 
 ## Bibliotecas
 
+* [LuaSocket](https://github.com/diegonehab/luasocket) `#lua` `#sockets`
+* [LuaSec](https://github.com/brunoos/luasec) `#lua` `#sockets` `#ssl`
+* [luamd](https://github.com/bakpakin/luamd) `#lua` `#markdown`
 * [lua-crypt](https://github.com/jprjr/lua-crypt) `#lua` `#contraseñas`
 * [lua-feedparser](https://github.com/slact/lua-feedparser) `#lua` `#feeds`
-* [luamd](https://github.com/bakpakin/luamd) `#lua` `#markdown`
 * [lua-path](https://github.com/moteus/lua-path) `#lua` `#filesystem-path`
-* [lua-smtps](https://github.com/slushpupie/lua-smtps) `#lua` `#email`
-* [LuaSec](https://github.com/brunoos/luasec) `#lua` `#sockets` `#ssl`
-* [LuaSocket](https://github.com/diegonehab/luasocket) `#lua` `#sockets`
 * [lua-resty-mail](https://github.com/GUI/lua-resty-mail) `#lua` `#email`
+* [lua-smtps](https://github.com/slushpupie/lua-smtps) `#lua` `#email`
 * [Parsedown](https://github.com/erusev/parsedown) `#php` `#markdown`
 * [PHP SMTP](https://github.com/snipworks/php-smtp) `#php` `#email`
 
@@ -46,6 +46,10 @@ Mi colección personal de programas minimalistas para GNU/Linux y Android.
 ## Cifrado
 
 * [age](https://github.com/FiloSottile/age)
+
+## Clientes de correo electrónico
+
+* [K-9 Mail](https://k9mail.app/) `#android`
 
 ## Clientes para redes sociales
 
@@ -70,8 +74,8 @@ Mi colección personal de programas minimalistas para GNU/Linux y Android.
 
 * [explainshell](https://explainshell.com/) `#shell`
 * [Gitless](https://github.com/gitless-vcs/gitless) `#git`
-* [ShellCheck](https://github.com/koalaman/shellcheck) `#shell`
 * [Personal Kanban](https://github.com/nishantpainter/personal-kanban) `#kanban`
+* [ShellCheck](https://github.com/koalaman/shellcheck) `#shell`
 
 ## Herramientas para redes
 
@@ -101,8 +105,8 @@ Mi colección personal de programas minimalistas para GNU/Linux y Android.
 
 ## Personalización
 
-* [LXAppearance](https://wiki.lxde.org/en/LXAppearance)
 * [Dracula](https://draculatheme.com/) `#iconos` `#temas`
+* [LXAppearance](https://wiki.lxde.org/en/LXAppearance)
 
 ## Reproductores multimedia
 
@@ -111,8 +115,8 @@ Mi colección personal de programas minimalistas para GNU/Linux y Android.
 
 ## Servidores
 
-* [TinySSH](https://github.com/janmojzis/tinyssh) `#ssh`
 * [Merecat](https://github.com/troglobit/merecat) `#http` `#https` `#php`
+* [TinySSH](https://github.com/janmojzis/tinyssh) `#ssh`
 
 ## Sistemas gestores de bases de datos
 
@@ -121,8 +125,8 @@ Mi colección personal de programas minimalistas para GNU/Linux y Android.
 
 ## Sistemas operativos
 
-* [Arch Linux](https://archlinux.org/)
 * [AOSP Vanilla](https://github.com/phhusson/treble_experimentations) `#android`
+* [Arch Linux](https://archlinux.org/)
 * [LineageOS](https://sourceforge.net/projects/andyyan-gsi/) `#android`
 
 ## Virtualización
