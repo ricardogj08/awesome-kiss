@@ -87,7 +87,7 @@ Mi colección personal de programas minimalistas para GNU/Linux y Android.
 ## Herramientas para redes
 
 * [iwd](https://iwd.wiki.kernel.org/) `#wifi`
-* [systemd-networkd](https://wiki.archlinux.org/title/systemd-networkd) `#ethernet`
+* [systemd-networkd](https://wiki.archlinux.org/title/systemd-networkd) `#ethernet` `#wifi`
 
 ## Lanzadores de aplicaciones
 
@@ -103,6 +103,8 @@ Mi colección personal de programas minimalistas para GNU/Linux y Android.
 
 ## Navegadores web
 
+* [astro](https://github.com/blmayer/astro) `#gemini`
+* [deedum](https://github.com/snoe/deedum) `#android` `#gemini`
 * [Firefox](https://www.mozilla.org/es-MX/firefox/new/) `#android` `#gnulinux`
 
 ## Ofimática
