@@ -2,22 +2,6 @@
 
 Mi colección personal de programas minimalistas para GNU/Linux y Android.
 
-## Aplicaciones para la terminal
-
-* [GNU nano](https://www.nano-editor.org/) `#editor`
-* [go-sendxmpp](https://salsa.debian.org/mdosch/go-sendxmpp) `#xmpp`
-* [htop](https://htop.dev/) `#info`
-* [pfetch](https://github.com/dylanaraps/pfetch) `#info`
-* [scrot](https://github.com/resurrecting-open-source-projects/scrot) `#screenshots`
-* [slock](https://tools.suckless.org/slock/) `#bloqueo`
-* [smu](https://github.com/karlb/smu) `#markdown`
-* [sx](https://github.com/Earnestly/sx) `#startx`
-* [sxss](https://github.com/cemkeylan/sxss) `#screensaver`
-* [xclip](https://github.com/astrand/xclip) `#portapapeles`
-* [xcompmgr](https://wiki.archlinux.org/title/xcompmgr) `#compositor`
-* [xorg-xbacklight](https://wiki.archlinux.org/title/backlight#xbacklight) `#brillo`
-* [xwallpaper](https://github.com/stoeckmann/xwallpaper) `#wallpapers`
-
 ## Aplicaciones web
 
 * [Tiny File Manager](https://github.com/prasathmani/tinyfilemanager) `#php`
@@ -58,10 +42,16 @@ Mi colección personal de programas minimalistas para GNU/Linux y Android.
 * [Conversations](https://conversations.im/) `#android` `#xmpp`
 * [Fedilab Lite](https://fedilab.app/) `#android` `#pleroma`
 * [Frost](https://allanwang.github.io/Frost-for-Facebook/) `#android` `#facebook`
+* [go-sendxmpp](https://salsa.debian.org/mdosch/go-sendxmpp) `#xmpp`
 * [ii](https://tools.suckless.org/ii/) `#irc`
 * [NewPipe](https://newpipe.net/) `#android` `#youtube`
 * [Telegram](https://telegram.org/) `#android` `#gnulinux`
 * [yt-local](https://yt-local.ga/) `#youtube`
+
+## Editores de texto
+
+* [GNU nano](https://www.nano-editor.org/)
+* [Mousepad](https://docs.xfce.org/apps/mousepad/start)
 
 ## Emuladores de terminal
 
@@ -71,23 +61,44 @@ Mi colección personal de programas minimalistas para GNU/Linux y Android.
 
 * [shfm](https://github.com/dylanaraps/shfm)
 
+## Gestores de redes
+
+* [iwd](https://iwd.wiki.kernel.org/) `#wifi`
+* [systemd-networkd](https://wiki.archlinux.org/title/systemd-networkd) `#ethernet` `#wifi`
+
 ## Gestores de ventanas
 
 * [dwm](https://dwm.suckless.org/)
 * [KISS Launcher](https://kisslauncher.com/) `#android`
 * [lxde](https://www.lxde.org/)
 
-## Herramientas para el desarrollo de software
+## Herramientas de desarrollo de software
 
 * [explainshell](https://explainshell.com/) `#shell`
 * [Gitless](https://github.com/gitless-vcs/gitless) `#git`
 * [Personal Kanban](https://github.com/nishantpainter/personal-kanban) `#kanban`
 * [ShellCheck](https://github.com/koalaman/shellcheck) `#shell`
 
-## Herramientas para redes
+## Herramientas para entornos de escritorio o gestores de ventanas
 
-* [iwd](https://iwd.wiki.kernel.org/) `#wifi`
-* [systemd-networkd](https://wiki.archlinux.org/title/systemd-networkd) `#ethernet` `#wifi`
+* [scrot](https://github.com/resurrecting-open-source-projects/scrot) `#screenshots`
+* [slock](https://tools.suckless.org/slock/) `#bloqueo`
+* [sx](https://github.com/Earnestly/sx) `#startx`
+* [sxss](https://github.com/cemkeylan/sxss) `#screensaver`
+* [xclip](https://github.com/astrand/xclip) `#portapapeles`
+* [xcompmgr](https://wiki.archlinux.org/title/xcompmgr) `#compositor`
+* [xorg-xbacklight](https://wiki.archlinux.org/title/backlight#xbacklight) `#brillo`
+* [xwallpaper](https://github.com/stoeckmann/xwallpaper) `#wallpapers`
+
+## Herramientas web
+
+* [smu](https://github.com/karlb/smu) `#markdown`
+* [xh](https://github.com/ducaale/xh) `#requests`
+
+## Información del sistema
+
+* [htop](https://htop.dev/)
+* [pfetch](https://github.com/dylanaraps/pfetch)
 
 ## Lanzadores de aplicaciones
 
@@ -139,19 +150,16 @@ Mi colección personal de programas minimalistas para GNU/Linux y Android.
 * [Arch Linux](https://archlinux.org/)
 * [LineageOS](https://sourceforge.net/projects/andyyan-gsi/) `#android`
 
-## Utilerias
-
-* [ROSA ImageWriter](http://wiki.rosalab.ru/en/index.php/ROSA_ImageWriter) `#usb` `#booteable`
-
-## Virtualización
-
-* [Bochs](https://bochs.sourceforge.io/)
-
 ## Web frameworks
 
 * [Bootstrap](https://getbootstrap.com/) `#css`
 * [Lapis](https://leafo.net/lapis/) `#lua` `#moonscript`
 * [Slim](https://www.slimframework.com/) `#php`
+
+## Otros
+
+* [Bochs](https://bochs.sourceforge.io/) `#virtualización`
+* [ROSA ImageWriter](http://wiki.rosalab.ru/en/index.php/ROSA_ImageWriter) `#usb` `#booteable`
 
 ## Licencia
 
