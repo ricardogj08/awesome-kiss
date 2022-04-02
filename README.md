@@ -1,165 +1,54 @@
 # awesome-kiss
 
-Mi colección personal de programas minimalistas para GNU/Linux y Android.
-
-## Aplicaciones web
-
-* [Tiny File Manager](https://github.com/prasathmani/tinyfilemanager) `#php`
-
-## Audio
-
-* [pavucontrol](https://freedesktop.org/software/pulseaudio/pavucontrol/) `#pulseaudio`
+* [AOSP](https://github.com/phhusson/treble_experimentations) - Una ROM de `Android`.
+* [Arch Linux](https://archlinux.org/) - Una distribución de GNU/Linux simple y ligero.
+* [age](https://github.com/FiloSottile/age) - Una herramienta de cifrado de archivos ligero, moderno y seguro. 
+* [Bootstrap](https://getbootstrap.com/) - Un framework de `CSS`.
+* [bemenu](https://github.com/Cloudef/bemenu) - Un lanzador de aplicaciones para `Wayland` inspirado en `dmenu`.
+* [Composer](https://getcomposer.org/) - Un gestor de dependencias para `PHP`.
+* [Dracula](https://draculatheme.com/) - Una colección de temas e iconos.
+* [dwl](https://github.com/djpohly/dwl) - Un compositor para `Wayland` inspirado en `dwm`.
+* [explainshell](https://explainshell.com/) - Un sitio web que explica todos los argumentos de un comando.
+* [Firefox](https://www.mozilla.org/) - Un navegador web.
+* [foot](https://codeberg.org/dnkl/foot) - Un emulador de terminal para `Wayland` rápido, ligero y minimalista.
+* [Gitless](https://github.com/goldstar611/gitless) - Un sistema control de versiones compatible con `git` fácil de aprender y utilizar.
+* [GNU nano](https://www.nano-editor.org/) - Un editor de texto pequeño y amigable.
+* [gonic](https://github.com/sentriz/gonic) - Un servidor de música en streaming desarrollado con la API de `subsonic`.
+* [grim](https://github.com/emersion/grim) - Un capturador de pantalla para `Wayland`.
+* [htop](https://htop.dev/) - Un visualizador de procesos.
+* [iwd](https://iwd.wiki.kernel.org/) - Un administrador de redes Wi-Fi.
+* [Kristall](https://github.com/MasterQ32/kristall) - Un navegador web para el protocolo `Gemini`.
+* [Lapis](https://leafo.net/lapis/) - Un framework de desarrollo web para `Lua` o `MoonScript`.
+* [LibreOffice](https://es.libreoffice.org/) - Un suite de ofimática.
+* [Light](https://github.com/haikarainen/light) - Un programa para controlar el brillo de la pantalla en GNU/Linux.
+* [LineageOS](https://sourceforge.net/projects/andyyan-gsi/) - Una ROM de `Android`.
+* [Lua](https://www.lua.org) - Un lenguaje de programación de propósito general ligero y potente.
+* [Lumen](https://lumen.laravel.com/docs/) - Un micro framework de desarrollo web para `PHP`.
+* [MariaDB](https://mariadb.org/) - Un sistema gestor de bases de datos relacionales.
+* [Marker](https://github.com/fabiocolacio/Marker) - Un editor de `Markdown`.
+* [MoonScript](https://github.com/leafo/moonscript) - Un lenguaje de scripting dinámico que compila a `Lua`.
+* [Nerd Fonts](https://www.nerdfonts.com/) - Una colección de fuentes tipográficas.
+* [POSIX sh](https://pubs.opengroup.org/onlinepubs/9699919799/utilities/contents.html) - Un lenguaje de comandos y shell de UNIX.
+* [PHP](https://www.php.net/) - Un lenguaje de scripting de propósito general especializado en el desarrollo web.
+* [pfetch](https://github.com/dylanaraps/pfetch) - Una herramienta bonita que muestra información del sistema escrito en POSIX `sh`.
+* [STMP](https://github.com/wildeyedskies/stmp) - Un reproductor de música en terminal para `subsonic`.
+* [ShellCheck](https://github.com/koalaman/shellcheck) - Una herramienta que analiza scripts de shell.
+* [shfm](https://github.com/dylanaraps/shfm) - Un administrador de archivos escrito en POSIX `sh`.
+* [smu](https://github.com/Gottox/smu) - Un convertidor simple de `Markdown` a `HTML`.
+* [systemd-networkd](https://wiki.archlinux.org/title/systemd-networkd) - Un administrador de interfaces de red.
+* [TinySSH](https://github.com/janmojzis/tinyssh) - Un servidor pequeño de `ssh`.
+* [xh](https://github.com/ducaale/xh) - Una herramienta amigable y rápida para enviar peticiones `HTTP`.
 
 ## Bibliotecas
 
-* [LuaSocket](https://github.com/diegonehab/luasocket) `#lua` `#sockets`
-* [LuaSec](https://github.com/brunoos/luasec) `#lua` `#sockets` `#ssl`
-* [luamd](https://github.com/bakpakin/luamd) `#lua` `#markdown`
-* [lua-crypt](https://github.com/jprjr/lua-crypt) `#lua` `#contraseñas`
-* [lua-feedparser](https://github.com/slact/lua-feedparser) `#lua` `#feeds`
-* [lua-path](https://github.com/moteus/lua-path) `#lua` `#filesystem-path`
-* [lua-resty-mail](https://github.com/GUI/lua-resty-mail) `#lua` `#email`
-* [lua-smtps](https://github.com/slushpupie/lua-smtps) `#lua` `#email`
-* [Parsedown](https://github.com/erusev/parsedown) `#php` `#markdown`
-* [PHP SMTP](https://github.com/snipworks/php-smtp) `#php` `#email`
-
-## Catálogo de aplicaciones
-
-* [AuroraStore](https://gitlab.com/AuroraOSS/AuroraStore) `#android`
-* [F-Droid](https://f-droid.org/) `#android`
-
-## Cifrado
-
-* [age](https://github.com/FiloSottile/age)
-
-## Clientes de correo electrónico
-
-* [K-9 Mail](https://k9mail.app/) `#android`
-
-## Clientes para redes sociales y servicios web
-
-* [BitlBee](https://www.bitlbee.org/main.php/news.r.html) `#irc`
-* [Conversations](https://conversations.im/) `#android` `#xmpp`
-* [Fedilab Lite](https://fedilab.app/) `#android` `#pleroma`
-* [Frost](https://allanwang.github.io/Frost-for-Facebook/) `#android` `#facebook`
-* [go-sendxmpp](https://salsa.debian.org/mdosch/go-sendxmpp) `#xmpp`
-* [ii](https://tools.suckless.org/ii/) `#irc`
-* [NewPipe](https://newpipe.net/) `#android` `#youtube`
-* [Telegram](https://telegram.org/) `#android` `#gnulinux`
-* [yt-local](https://yt-local.ga/) `#youtube`
-
-## Editores de texto
-
-* [GNU nano](https://www.nano-editor.org/)
-* [Mousepad](https://docs.xfce.org/apps/mousepad/start)
-
-## Emuladores de terminal
-
-* [st](https://st.suckless.org/)
-
-## Gestores de archivos
-
-* [shfm](https://github.com/dylanaraps/shfm)
-
-## Gestores de redes
-
-* [iwd](https://iwd.wiki.kernel.org/) `#wifi`
-* [systemd-networkd](https://wiki.archlinux.org/title/systemd-networkd) `#ethernet` `#wifi`
-
-## Gestores de ventanas
-
-* [dwm](https://dwm.suckless.org/)
-* [KISS Launcher](https://kisslauncher.com/) `#android`
-* [lxde](https://www.lxde.org/)
-
-## Herramientas de desarrollo de software
-
-* [explainshell](https://explainshell.com/) `#shell`
-* [Gitless](https://github.com/gitless-vcs/gitless) `#git`
-* [Personal Kanban](https://github.com/nishantpainter/personal-kanban) `#kanban`
-* [ShellCheck](https://github.com/koalaman/shellcheck) `#shell`
-
-## Herramientas para entornos de escritorio o gestores de ventanas
-
-* [scrot](https://github.com/resurrecting-open-source-projects/scrot) `#screenshots`
-* [slock](https://tools.suckless.org/slock/) `#bloqueo`
-* [sx](https://github.com/Earnestly/sx) `#startx`
-* [sxss](https://github.com/cemkeylan/sxss) `#screensaver`
-* [xclip](https://github.com/astrand/xclip) `#portapapeles`
-* [xcompmgr](https://wiki.archlinux.org/title/xcompmgr) `#compositor`
-* [xorg-xbacklight](https://wiki.archlinux.org/title/backlight#xbacklight) `#brillo`
-* [xwallpaper](https://github.com/stoeckmann/xwallpaper) `#wallpapers`
-
-## Herramientas web
-
-* [smu](https://github.com/karlb/smu) `#markdown`
-* [xh](https://github.com/ducaale/xh) `#requests`
-
-## Información del sistema
-
-* [htop](https://htop.dev/)
-* [pfetch](https://github.com/dylanaraps/pfetch)
-
-## Lanzadores de aplicaciones
-
-* [dmenu](https://tools.suckless.org/dmenu/)
-* [sal](#)
-
-## Lenguajes de programación
-
-* [Lua](https://www.lua.org)
-* [MoonScript](https://github.com/leafo/moonscript)
-* [PHP](https://www.php.net/)
-* [POSIX sh](https://pubs.opengroup.org/onlinepubs/9699919799/utilities/contents.html)
-
-## Navegadores web
-
-* [astro](https://github.com/blmayer/astro) `#gemini`
-* [deedum](https://github.com/snoe/deedum) `#android` `#gemini`
-* [Firefox](https://www.mozilla.org/es-MX/firefox/new/) `#android` `#gnulinux`
-
-## Ofimática
-
-* [LibreOffice](https://es.libreoffice.org/)
-* [Marker](https://fabiocolacio.github.io/Marker/) `#markdown`
-
-## Personalización
-
-* [Dracula](https://draculatheme.com/) `#iconos` `#temas`
-* [LXAppearance](https://wiki.lxde.org/en/LXAppearance)
-
-## Reproductores multimedia
-
-* [mpv](https://mpv.io/) `#audio` `#video`
-* [STMP](https://github.com/wildeyedskies/stmp) `#subsonic`
-
-## Servidores
-
-* [gonic](https://github.com/sentriz/gonic) `#música` `#streaming`
-* [Merecat](https://github.com/troglobit/merecat) `#http` `#https` `#php`
-* [TinySSH](https://github.com/janmojzis/tinyssh) `#ssh`
-
-## Sistemas gestores de bases de datos
-
-* [MariaDB](https://mariadb.org/)
-* [SQLite](https://www.sqlite.org/index.html)
-
-## Sistemas operativos
-
-* [AOSP Vanilla](https://github.com/phhusson/treble_experimentations) `#android`
-* [Arch Linux](https://archlinux.org/)
-* [LineageOS](https://sourceforge.net/projects/andyyan-gsi/) `#android`
-
-## Web frameworks
-
-* [Bootstrap](https://getbootstrap.com/) `#css`
-* [Lapis](https://leafo.net/lapis/) `#lua` `#moonscript`
-* [Slim](https://www.slimframework.com/) `#php`
-
-## Otros
-
-* [Bochs](https://bochs.sourceforge.io/) `#virtualización`
-* [ROSA ImageWriter](http://wiki.rosalab.ru/en/index.php/ROSA_ImageWriter) `#usb` `#booteable`
+* [feedparser](https://github.com/slact/lua-feedparser) - Un analizador de feeds de Atom y RSS para `Lua`.
+* [LuaSec](https://github.com/brunoos/luasec) - Un enlace para la biblioteca `OpenSSL` que proporciona comunicaciones TLS/SSL en `Lua`.
+* [LuaSocket](https://github.com/lunarmodules/luasocket) - Soporte de red para el lenguaje de programación `Lua`.
+* [luamd](https://github.com/bakpakin/luamd) - Un convertidor de `Markdown` a `HTML` para `Lua`.
+* [lua-crypt](https://github.com/jprjr/lua-crypt) - Un módulo pequeño de `Lua` para cifrar contraseñas.
+* [lua-path](https://github.com/moteus/lua-path) - Una biblioteca de `Lua` para manipular rutas del sistema de archivos.
+* [Parsedown](https://github.com/erusev/parsedown) - Un convertidor de `Markdown` a `HTML` para `PHP`.
+* [Nette Mail](https://doc.nette.org/en/mail) - Una biblioteca de `PHP` para enviar emails.
 
 ## Licencia
 
