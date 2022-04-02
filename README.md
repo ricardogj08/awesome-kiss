@@ -5,7 +5,7 @@
 * [age](https://github.com/FiloSottile/age) - Una herramienta de cifrado de archivos ligero, moderno y seguro. 
 * [Bootstrap](https://getbootstrap.com/) - Un framework de `CSS`.
 * [bemenu](https://github.com/Cloudef/bemenu) - Un lanzador de aplicaciones para `Wayland` inspirado en `dmenu`.
-* [Composer](https://getcomposer.org/) - Un gestor de dependencias para `PHP`.
+* [Composer](https://getcomposer.org/) - Un administrador de dependencias para `PHP`.
 * [Dracula](https://draculatheme.com/) - Una colección de temas e iconos.
 * [dwl](https://github.com/djpohly/dwl) - Un compositor para `Wayland` inspirado en `dwm`.
 * [explainshell](https://explainshell.com/) - Un sitio web que explica todos los argumentos de un comando.
@@ -19,7 +19,7 @@
 * [iwd](https://iwd.wiki.kernel.org/) - Un administrador de redes Wi-Fi.
 * [Kristall](https://github.com/MasterQ32/kristall) - Un navegador web para el protocolo `Gemini`.
 * [Lapis](https://leafo.net/lapis/) - Un framework de desarrollo web para `Lua` o `MoonScript`.
-* [LibreOffice](https://es.libreoffice.org/) - Un suite de ofimática.
+* [LibreOffice](https://es.libreoffice.org/) - Una suite de ofimática.
 * [Light](https://github.com/haikarainen/light) - Un programa para controlar el brillo de la pantalla en GNU/Linux.
 * [LineageOS](https://sourceforge.net/projects/andyyan-gsi/) - Una ROM de `Android`.
 * [Lua](https://www.lua.org) - Un lenguaje de programación de propósito general ligero y potente.
@@ -45,10 +45,10 @@
 * [LuaSec](https://github.com/brunoos/luasec) - Un enlace para la biblioteca `OpenSSL` que proporciona comunicaciones TLS/SSL en `Lua`.
 * [LuaSocket](https://github.com/lunarmodules/luasocket) - Soporte de red para el lenguaje de programación `Lua`.
 * [luamd](https://github.com/bakpakin/luamd) - Un convertidor de `Markdown` a `HTML` para `Lua`.
-* [lua-crypt](https://github.com/jprjr/lua-crypt) - Un módulo pequeño de `Lua` para cifrar contraseñas.
-* [lua-path](https://github.com/moteus/lua-path) - Una biblioteca de `Lua` para manipular rutas del sistema de archivos.
+* [lua-crypt](https://github.com/jprjr/lua-crypt) - Un módulo pequeño en `Lua` para cifrar contraseñas.
+* [lua-path](https://github.com/moteus/lua-path) - Una biblioteca en `Lua` para manipular rutas del sistema de archivos.
 * [Parsedown](https://github.com/erusev/parsedown) - Un convertidor de `Markdown` a `HTML` para `PHP`.
-* [Nette Mail](https://doc.nette.org/en/mail) - Una biblioteca de `PHP` para enviar emails.
+* [Nette Mail](https://doc.nette.org/en/mail) - Una biblioteca en `PHP` para enviar emails.
 
 ## Licencia
 
