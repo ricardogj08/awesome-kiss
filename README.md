@@ -27,11 +27,13 @@
 * [Nerd Fonts](https://www.nerdfonts.com/) - Una colección de fuentes tipográficas.
 * [POSIX sh](https://pubs.opengroup.org/onlinepubs/9699919799/utilities/contents.html) - Un lenguaje de comandos y shell de UNIX.
 * [PHP](https://www.php.net/) - Un lenguaje de scripting de propósito general especializado en el desarrollo web.
+* [page](https://github.com/ricardogj08/page/) - Un simple gestor de contraseñas que utiliza `age` escrito en POSIX `sh`.
 * [pfetch](https://github.com/dylanaraps/pfetch) - Una herramienta bonita que muestra información del sistema escrito en POSIX `sh`.
 * [STMP](https://github.com/wildeyedskies/stmp) - Un reproductor de música en terminal para `subsonic`.
 * [ShellCheck](https://github.com/koalaman/shellcheck) - Una herramienta que analiza scripts de shell.
 * [shfm](https://github.com/dylanaraps/shfm) - Un administrador de archivos escrito en POSIX `sh`.
 * [smu](https://github.com/Gottox/smu) - Un convertidor simple de `Markdown` a `HTML`.
+* [swaybg](https://github.com/swaywm/swaybg) - Un colocador de wallpapers para `Wayland`.
 * [systemd-networkd](https://wiki.archlinux.org/title/systemd-networkd) - Un administrador de interfaces de red.
 * [TinySSH](https://github.com/janmojzis/tinyssh) - Un servidor pequeño de `ssh`.
 * [udevil](https://ignorantguru.github.io/udevil/) - Un programa en terminal para montar y desmontar unidades de almacenamiento.
@@ -44,14 +46,13 @@
 * [feedparser](https://github.com/slact/lua-feedparser) - Un analizador de feeds de Atom y RSS en `Lua`.
 * [LuaSec](https://github.com/brunoos/luasec) - Un enlace para la biblioteca `OpenSSL` que proporciona comunicaciones TLS/SSL en `Lua`.
 * [Lapis](https://leafo.net/lapis/) - Un framework de desarrollo web con `Lua` o `MoonScript`.
-* [Laravel](https://laravel.com/) - Un framework de desarrollo web con `PHP`.
 * [LuaSocket](https://github.com/lunarmodules/luasocket) - Soporte de red para el lenguaje de programación `Lua`.
-* [Lumen](https://lumen.laravel.com/docs/) - Un micro framework de desarrollo web con `PHP`.
+* [Lumen](https://lumen.laravel.com/docs/) - Un micro framework de desarrollo web para `PHP`.
 * [luamd](https://github.com/bakpakin/luamd) - Un convertidor de `Markdown` a `HTML` en `Lua`.
 * [lua-crypt](https://github.com/jprjr/lua-crypt) - Un módulo pequeño para cifrar contraseñas en `Lua`.
 * [lua-path](https://github.com/moteus/lua-path) - Una biblioteca para manejar rutas del sistema de archivos en `Lua`.
 * [lpath](https://github.com/starwing/lpath) - Un módulo para manejar rutas, sistemas de archivos e información de archivos en `Lua`.
-* [Parsedown](https://github.com/erusev/parsedown) - Un convertidor de `Markdown` a `HTML` en `PHP`.
+* [Parsedown](https://github.com/erusev/parsedown) - Un convertidor de `Markdown` a `HTML` para `PHP`.
 * [Nette Mail](https://doc.nette.org/en/mail) - Una biblioteca para enviar emails en `PHP`.
 
 ## Licencia
